@@ -53,6 +53,9 @@ Estas son las mejores localizaciones para minarlo:
     - Igenous - 5% de probabilidad.
   - En **Pyro**: 
     - Atacamite - 3% de probabildiad.
+   
+Para más información sobre localizaciones y probabilidades según el tipo de roca, puedes mirar este video de **ElGuapoe** https://www.youtube.com/watch?v=z8METe9B9L4
+
 ---
 
 📡 **Escaneo de depósitos**
@@ -86,7 +89,7 @@ Yo suelo usar esta tabla de frecuencias para ver a que roca corresponde cada se�
 ⏱️ **Cuidados con el Quantanium**
 
 - Es **inestable**: tienes ~**25 minutos** tras la extracción.
-- **Explota** si no lo entregas/refinas a tiempo.
+- **Explota** si no almacenas la nave a tiempo.
 - 🚀 Estrategia: fractura todas las rocas → escanea y selecciona → por último extrae el Quantanium → vuela a la refinería.
 
 ✅ Una vez almacenada tu nave, el temporizador se **detiene**.
