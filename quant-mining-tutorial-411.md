@@ -93,14 +93,14 @@ Para más detalle aquí está la tabla de frqecuencias por tipo de roca:
 🏭 **Refinado**
 
 💎 Mejores métodos:
-- *Dinyx Solventation*: ✅ rápido y eficiente
-- *Ferron Exchange*: buena alternativa
-- *Pyrometric Chromalysis*: lento, solo si tienes tiempo
+- *Dinyx Solventation*: ✅ lento pero eficiente, yo suelo preferir este.
+- *Ferron Exchange*: buena alternativa, es más rápido.
+
+Consulta: [Métodos de refinado](https://regolith.rocks/tables/ore)
 
 📍 *Refinerías recomendadas para Quantanium:*
-- ARC-L2 (muy cerca de Cellin, 10–12 min de trayecto seguro)
-- También: CRU-L1, HUR-L1
 
+Cada refinería tiene bonuses de refinado según el mineral. Actualmente el mejor es ARC-L2 (muy cerca de Cellin, 10–12 min de trayecto seguro).
 Consulta: [Bonuses de refinería](https://regolith.rocks/tables/refinery)
 
 ---
