@@ -100,7 +100,9 @@ Consulta: [Métodos de refinado](https://regolith.rocks/tables/ore)
 
 📍 *Refinerías recomendadas para Quantanium:*
 
-Cada refinería tiene bonuses de refinado según el mineral. Actualmente el mejor es ARC-L2 (muy cerca de Cellin, 10–12 min de trayecto seguro).
+- Cada refinería tiene bonuses de refinado según el mineral.
+- Actualmente el mejor es ARC-L2 (muy cerca de Cellin, 10–12 min de trayecto seguro).
+
 Consulta: [Bonuses de refinería](https://regolith.rocks/tables/refinery)
 
 ---
