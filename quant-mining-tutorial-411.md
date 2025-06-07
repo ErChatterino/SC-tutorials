@@ -73,7 +73,7 @@ Yo suelo usar esta tabla de frecuencias para ver a que roca corresponde cada se�
 
 ---
 
-📱**Artilugios de minería
+📱**Artilugios de minería**
 
 TODO
 
@@ -89,11 +89,10 @@ TODO
 8. Una vez fragmentada, escanea fragmentos y selecciona solo los rentables (aquellos que tengan mas de un X% del mineral que buscas o más de una cantidad de SCU del mineral que buscas).
 9. Algunos fragmentos (>10 SCU) necesitarán otra fractura.
 10. Una vez fracturados todas las rocas, extrae recursos con el modo de extracción (Para cambiar entre modos pulsa Alt+LMB).
-11. Ten en cuenta que si fracturas e inmediantamente extraes probablemente no te dé tiempo a extraer todo antes de que el quantanium se degrade.
 
 ---
 
-⏱️ **Cuidados con el Quantanium**
+⏱️ **Cuidado con el Quantanium**
 
 - Es **inestable**: tienes ~**25 minutos** tras la extracción.
 - **Explota** si no almacenas la nave a tiempo.
