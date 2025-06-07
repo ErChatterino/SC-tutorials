@@ -62,7 +62,10 @@ Estas son las mejores localizaciones para minarlo:
 - En la parte superior de la interfáz del radar verás un número. Por ejemplo 1920 o 11740. Eso son las frequencias únicas de cada entidad en Star Citizen. Cada tipo de objeto tiene una en el verso.
 - Las frecuencias funcionan con múltiplos. Por ejemplo la frecuencia fundamental del Granite es `1920`, pero si encuentras señales con una frecuencia múltiplo de 1920, también es Granite solo que en mayor cantidad. Por ejemplo una señal de frecuencia `19200` sigue siendo Granite, solo que el deposito es 10 veces más grande.
 
-Para más detalle aquí está la tabla de frqecuencias por tipo de roca:
+Como ejemplo, en esta captura podéis ver tanto la frecuencia como las señales desconocidas destacadas en rojo:
+![Captura de pantalla escaneo](https://i.imgur.com/AlDhwHz.jpeg)
+
+Yo suelo usar esta tabla de frecuencias para ver a que roca corresponde cada señal:
 ![Tabla de frequencias](https://i.imgur.com/0xHrW63.png)
 
 ---
