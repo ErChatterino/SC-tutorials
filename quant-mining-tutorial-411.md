@@ -38,8 +38,8 @@
 📍 **Localizaciones de Quantanium**
 
 Estas son las mejores localizaciones para minarlo:
-🌕 *Stanton* – **Cellin**
-🌋 *Pyro* – **Monox**
+- 🌕 *Stanton* – **Cellin**
+- 🌋 *Pyro* – **Monox**
 
 ---
 
