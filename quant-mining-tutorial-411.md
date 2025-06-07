@@ -73,16 +73,23 @@ Yo suelo usar esta tabla de frecuencias para ver a que roca corresponde cada se�
 
 ---
 
-⚙️ **Mecánica de Minado**
+📱**Artilugios de minería
+
+TODO
+
+---
+
+⚙️ **Mecánica de minería**
 
 1. Escanea depósitos volando lento.
-2. Escanea cada roca individual.
-3. Selecciona torreta adecuada (centro: grandes, laterales: pequeñas).
-4. Fractura dentro de la “ventana verde” evitando sobrecarga (zona roja).
-5. Usa módulos activos si es necesario.
-6. Escanea fragmentos y selecciona solo los rentables.
-7. Algunos fragmentos (>10 SCU) necesitarán otra fractura.
-8. Extrae recursos con el modo de extracción (mineral va al pod).
+2. Escanea cada roca individual. Ciertas rocas te aparecerán como imposible de minar, aunque eso no es necesariamente así. Utilizando artilugios de minería y el módulo activo Surge puede que si se pueda minar. En mi experiencia lo máximo que puede minar una MOLE estando solo son rocas de 24-30 toneladas de masa.
+4. Selecciona torreta adecuada (centro: grandes, laterales: medianas/pequeñas).
+5. En primer lugar tienes que fracturar la roca. Para ello tienes que ajustar la potencia del laser con la rueda del ratón y verás como la barra de la izquierda se va rellenando en verde. Ten en cuenta que dependiendo del tamaño de la roca tendrás que usar más o menos energía del laser.
+6. Mientras fractuas tienes que mantenerte en la “ventana verde” evitando sobrecarga (zona roja). Si una roca se sobrecarga mucho puede ocasionar daños a la nave, así como hacer desaparecer fragmentos. A veces, la "ventana verde" es demasiado pequeña, para esto lo que yo hago es activar y desactivar el láser, para evitar sobrecargar la roca.
+8. Una vez fragmentada, escanea fragmentos y selecciona solo los rentables (aquellos que tengan mas de un X% del mineral que buscas o más de una cantidad de SCU del mineral que buscas).
+9. Algunos fragmentos (>10 SCU) necesitarán otra fractura.
+10. Una vez fracturados todas las rocas, extrae recursos con el modo de extracción (Para cambiar entre modos pulsa Alt+LMB).
+11. Ten en cuenta que si fracturas e inmediantamente extraes probablemente no te dé tiempo a extraer todo antes de que el quantanium se degrade.
 
 ---
 
